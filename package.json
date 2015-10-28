@@ -12,6 +12,8 @@
   "keywords": [],
   "devDependencies": {},
   "dependencies": {
-    "jaws-core-js": "~0.0.2"
+    "aws-sdk": "^2.2.12",
+    "jaws-core-js": "~0.0.2",
+    "node-uuid": "^1.4.3"
   }
 }
